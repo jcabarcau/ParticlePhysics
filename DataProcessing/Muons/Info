@@ -1,0 +1,3 @@
+En esta práctica se realizará la separación de datos obtenidos de la simulación de MadGraph en el archivo "unweighted_events.lhe".
+Primero se filtrarán los datos para que sólo aparezcan las partículas 13 y -13 (mu+ y mu-).
+Después se hará un arreglo para obtener datos de 4 columnas para formar el cuadrivector 4-momentum (Px,Py,Pz,E) de cada muón filtrado.
